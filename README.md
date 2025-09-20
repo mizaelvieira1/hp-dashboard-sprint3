@@ -53,3 +53,52 @@ O painel foi construído em **Streamlit** e aborda não apenas os indicadores de
 ```bash
 git clone https://github.com/SEU-USUARIO/hp-dashboard-sprint3.git
 cd hp-dashboard-sprint3
+```
+
+### 2. Crie um ambiente virtual (opcional, mas recomendado)
+```bash
+python -m venv .venv
+.\.venv\Scriptsctivate   # Windows
+source .venv/bin/activate  # Linux/Mac
+```
+
+### 3. Instale as dependências
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Execute o dashboard
+```bash
+streamlit run app.py
+```
+
+O app ficará disponível em: [http://localhost:8501](http://localhost:8501)
+
+---
+
+## 🌐 Deploy Online
+O projeto foi publicado em **Streamlit Community Cloud**, disponível em:  
+👉 [Acesse o Dashboard aqui](https://seu-link.streamlit.app)  
+
+---
+
+## 📌 Tecnologias utilizadas
+- [Streamlit](https://streamlit.io/)  
+- [Pandas](https://pandas.pydata.org/)  
+- [Matplotlib](https://matplotlib.org/)  
+- [Seaborn](https://seaborn.pydata.org/)  
+- [PyDeck](https://deckgl.readthedocs.io/en/latest/)  
+
+---
+
+## ✨ Autor
+Projeto desenvolvido por:
+
+Cristiano Washington Dias - RM555992 
+José Enrico dos Santos Tavares - RM554471 
+Lucas Hidetoshi Ichiama - RM555077 
+Marcia Ricardo Rosano - RM557464 
+Mizael Vieira Bezerra - RM555796 
+Santiago Nascimento Bernardes - RM557447 
+
+como parte do curso de **Governança em IA e Business Analytics – FIAP**.  
