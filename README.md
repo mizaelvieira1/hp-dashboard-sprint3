@@ -94,11 +94,11 @@ O projeto foi publicado em **Streamlit Community Cloud**, disponível em:
 ## ✨ Autor
 Projeto desenvolvido por:
 
-Cristiano Washington Dias - RM555992 
-José Enrico dos Santos Tavares - RM554471 
-Lucas Hidetoshi Ichiama - RM555077 
-Marcia Ricardo Rosano - RM557464 
-Mizael Vieira Bezerra - RM555796 
-Santiago Nascimento Bernardes - RM557447 
+- Cristiano Washington Dias - RM555992 
+- José Enrico dos Santos Tavares - RM554471 
+- Lucas Hidetoshi Ichiama - RM555077 
+- Marcia Ricardo Rosano - RM557464 
+- Mizael Vieira Bezerra - RM555796 
+- Santiago Nascimento Bernardes - RM557447 
 
 como parte do curso de **Governança em IA e Business Analytics – FIAP**.  
