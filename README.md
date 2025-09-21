@@ -6,6 +6,17 @@ O objetivo é consolidar, em um único dashboard executivo, os resultados do pil
 O painel foi construído em **Streamlit** e aborda não apenas os indicadores de negócio, mas também aspectos de **governança, fairness e ética na IA**.
 
 ---
+## ✨ Autores
+Projeto desenvolvido por:
+
+- Cristiano Washington Dias - RM555992 
+- José Enrico dos Santos Tavares - RM554471 
+- Lucas Hidetoshi Ichiama - RM555077 
+- Marcia Ricardo Rosano - RM557464 
+- Mizael Vieira Bezerra - RM555796 
+- Santiago Nascimento Bernardes - RM557447 
+
+---
 
 ## 🗂️ Estrutura do Dashboard
 
@@ -90,15 +101,3 @@ O projeto foi publicado em **Streamlit Community Cloud**, disponível em:
 - [PyDeck](https://deckgl.readthedocs.io/en/latest/)  
 
 ---
-
-## ✨ Autor
-Projeto desenvolvido por:
-
-- Cristiano Washington Dias - RM555992 
-- José Enrico dos Santos Tavares - RM554471 
-- Lucas Hidetoshi Ichiama - RM555077 
-- Marcia Ricardo Rosano - RM557464 
-- Mizael Vieira Bezerra - RM555796 
-- Santiago Nascimento Bernardes - RM557447 
-
-como parte do curso de **Governança em IA e Business Analytics – FIAP**.  
