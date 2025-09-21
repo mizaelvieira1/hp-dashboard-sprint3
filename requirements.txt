@@ -1,5 +1,5 @@
-streamlit==1.32.0
-pandas==2.2.2
-matplotlib==3.8.4
-seaborn==0.13.2
-pydeck==0.8.0
+streamlit
+pandas
+matplotlib
+seaborn=
+pydeck
